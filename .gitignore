@@ -1,3 +1,6 @@
 .idea
 node_modules
 *.iml
+.air.toml
+tmp
+.DS_Store
